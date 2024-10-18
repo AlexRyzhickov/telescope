@@ -1,0 +1,7 @@
+#model_1_path: /models/model_1.pkl
+#model_2_path: /models/model_2.pkl
+#model_3_path: /models/model_3.pkl
+
+model_1_path: models\\model_1.pkl
+model_2_path: models\\model_2.pkl
+model_3_path: models\\model_3.pkl

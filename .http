@@ -1,0 +1,39 @@
+POST /api/v1/errors HTTP/1.1
+Host: localhost:8080
+User-Agent: curl/8.2.1
+Accept: */*
+Content-Type: application/json
+
+{
+    "wind_speed": 0.64,
+    "temp": 0,
+    "humidity": 0,
+    "temp1": 0,
+    "temp2": 0,
+    "temp3": 0,
+    "temp4": 0,
+    "temp5": 0,
+    "temp6": 0,
+    "temp7": 0,
+    "temp8": 0,
+    "temp9": 0,
+    "temp10": 0,
+    "temp11": 0,
+    "temp12": 0,
+    "temp13": 0,
+    "temp14": 0,
+    "strain1": 0,
+    "strain2": 0,
+    "strain3": 0,
+    "strain4": 0,
+    "strain5": 0,
+    "strain6": 0,
+    "strain7": 0,
+    "strain8": 0,
+    "strain9": 0,
+    "strain10": 0,
+    "strain11": 0,
+    "strain12": 0,
+    "strain13": 0,
+    "strain14": 0
+}

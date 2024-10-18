@@ -1,0 +1,12 @@
+.idea
+.coverage
+.nox
+.pytest_cache
+__pycache__
+.env
+.ipynb_checkpoints
+coverage.xml
+report.xml
+.venv
+__pycache__/
+.conda
